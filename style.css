@@ -1,0 +1,17 @@
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: rgb(57, 158, 224);
+}
+
+
+/*
+ * Footer
+ */
+.mastfoot {
+  text-align: center;
+  padding-top: 15px;
+  color: rgb(0, 0, 0);
+}
